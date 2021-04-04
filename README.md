@@ -4,7 +4,7 @@
 
 ## Disable Pocket
 
-- Go to `about:blank`
+- Go to `about:config`
 - Filter by `pocket`
 - Clear all strings and set all booleans to `false`
 
